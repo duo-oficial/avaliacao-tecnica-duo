@@ -6,3 +6,10 @@
 <br/>
 
 [Link do protótipo - MOBILE](https://xd.adobe.com/view/268c5920-7b07-469d-acb2-4ec5f9497787-73df/)
+
+
+<br/>
+
+[Teste back-end](https://github.com/duo-oficial/avaliacao-tecnica-duo/tree/master/backend)
+<br/>
+[Teste front-end](https://github.com/duo-oficial/avaliacao-tecnica-duo/tree/master/frontend)

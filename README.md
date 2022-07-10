@@ -1,5 +1,4 @@
-# avaliacao-tecnica-duo
-Avaliação Técnica DUO
+# Avaliação Técnica DUO
 ## Link para os assets e layout de referência para os protótipos.
 
 [Link do protótipo - DESKTOP](https://xd.adobe.com/view/dd0af4be-1c65-40c1-aed8-0f1f7c763ba0-8859/)

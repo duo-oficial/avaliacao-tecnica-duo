@@ -32,7 +32,7 @@ O Creative tem apenas duas páginas, a página inicial e a página de download d
 
 # O que você deve contruir:
 
-- Crie uma API RESTful e um sistema de back-end correspondente para lidar com os recursos detalhados acima. Essa API RESTful se comunicaria com o aplicativo JS de página única. Essa API que você cria deve habilitar todos os recursos em ambas as páginas.
+- Crie uma API RESTful e um sistema de back-end correspondente para lidar com os recursos detalhados acima. Essa API RESTful se comunicaria com o aplicativo JS de página única. Essa API que você cria deve habilitar todos os recursos para a página.
 - Você deve implementar um banco de dados real, pronto para produção, e as consultas devem ter bom desempenho.
 - Não implemente recursos adicionais além do explicado na visão geral.
 - Escreva alguns testes automatizados para este projeto.

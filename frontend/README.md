@@ -29,4 +29,9 @@ O Creative tem apenas duas páginas, a página inicial e a página de download d
         - Mensagem
             - Máximo de 500 caracteres para mensagem.
 
+# O que você deve contruir:
+
+- Construa o front-end exatamente igual ao prótotipo construido pelo time de Design. Siga as orientações descritas nas instruções no link do inicio desta página.
+- Não implemente recursos adicionais além do protótipo.
+- Você pode usar: ReactJS, NextJS ou AngularJS.
     
